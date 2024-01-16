@@ -7,4 +7,8 @@
 
 void read_file(char* file_path);
 
+void write_to_file(char *file_path, char* content);
+
+void select_read();
+
 #endif //AWESOME_LINUX_READWRITE_H
